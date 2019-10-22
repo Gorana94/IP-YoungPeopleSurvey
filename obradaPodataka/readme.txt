@@ -1,0 +1,2 @@
+out1 predstavljaju podatke gde su zamenjene vrednosti 5 u atributima sa 1, sve ostale vrednosti su zamenjene sa 0
+out45 predstavljaju podatke gde su zamenjene vrednosti 4 i 5 u atributima sa 1, sve ostale vrednosti su zamenjene sa 0
